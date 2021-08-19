@@ -1,4 +1,4 @@
-# 22_Redux_Store
+# 22 Redux Store
 
 [GitHub link](https://github.com/djony88/22_Redux_Store)
 
