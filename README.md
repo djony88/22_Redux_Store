@@ -2,7 +2,7 @@
 
 [GitHub link](https://github.com/djony88/22_Redux_Store)
 
-[Deployed App]()
+[Deployed App](https://agile-depths-15452.herokuapp.com/)
 
 
 Requirement:
@@ -13,4 +13,6 @@ Requirement:
 * When app extracts state data from the store it uses Redux instead of the Context API.
 * When app dispatches actions it uses Redux instead of the Context API.
 
-![Screenshoot]()
+![Screenshoot](client\public\img\1.png)
+![Screenshoot](client\public\img\2.png)
+![Screenshoot](client\public\img\3.png)
